@@ -7,3 +7,4 @@ numpy==1.24.2
 tensorflow==2.11.0
 protobuf==3.19.5
 gym==0.21.0
+cython==0.29.33
